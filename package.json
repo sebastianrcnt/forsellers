@@ -1,0 +1,16 @@
+{
+  "name": "for_sellers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.21",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
